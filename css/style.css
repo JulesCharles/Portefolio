@@ -247,7 +247,7 @@ textarea {
     text-align: center; }
 
 .about {
-  background-color: rgb(27, 29, 30); }
+  background-color: #fafafa; }
   .about__content {
     display: grid;
     grid-template-columns: 1fr 1fr;
